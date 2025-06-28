@@ -1,0 +1,13 @@
+# Python / Backend
+backend/venv/
+backend/.env
+backend/__pycache__/
+*.pyc
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
